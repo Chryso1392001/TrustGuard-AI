@@ -17,7 +17,7 @@
 
 
 
-**🛡️🤖 SafeTalk-AI** is a cutting-edge, real-time AI chatbot for WhatsApp, designed to automatically detect and prevent scams and social engineering attacks through advanced natural language processing. This project combines FastAPI, Python, machine learning and WhatsApp Web automation to deliver a market-ready, scalable and highly effective antifraud solution.
+**🛡️🤖TrustGuard AI** is a cutting-edge, real-time AI chatbot for WhatsApp, designed to automatically detect and prevent scams and social engineering attacks through advanced natural language processing. This project combines FastAPI, Python, machine learning and WhatsApp Web automation to deliver a market-ready, scalable and highly effective antifraud solution.
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🏆 Why SafeTalk-AI?
+## 🏆 WhyTrustGuard AI?
 
 - **Visionary Solution:** Proactive fraud prevention, not just detection.
 - **Plug & Play:** Simple to set up locally or in the cloud.
@@ -62,7 +62,7 @@ package.json          # Node dependencies (bot)
 
 ```bash
 git clone https://github.com/cshillrj46/SafeTalk-AI.git
-cd SafeTalk-AI
+cdTrustGuard AI
 
 python -m venv .venv
 # Windows:
@@ -106,7 +106,7 @@ Change notification targets: Adapt the bot to forward alerts to admin numbers, e
 
 🤝 Contributing
 Pull requests, issue reports and suggestions are welcome!
-If you use or adapt SafeTalk-AI for business, a mention or star is appreciated.
+If you use or adaptTrustGuard AI for business, a mention or star is appreciated.
 
 🔒 Security Notice
 Production Use: If deploying commercially, set up proper environment variables, secure endpoints, and never expose sensitive training data.
